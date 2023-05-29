@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">subtigaRTA</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Dark Mode</string>
+    <string name="gelap">Dark Mode</string>
+
+</resources>
